@@ -1,0 +1,14 @@
+names:
+- boat
+- camping car
+- car
+- motorcycle
+- other
+- pickup
+- plane
+- tractor
+- truck
+- van
+nc: 10
+train: /content/train_Gdata/train_Gdata/images/train
+val: /content/train_Gdata/train_Gdata/images/test
